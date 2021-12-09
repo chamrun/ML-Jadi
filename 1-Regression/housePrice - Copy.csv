@@ -569,6 +569,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 170,3,True,True,True,Zaferanieh,19000000000.0,633333.33
 283,3,True,True,True,Zaferanieh,29700000000.0,990000.0
 84,2,True,True,True,Pardis,540000000.0,18000.0
+" 3,310,000,000 ",2,True,True,True,Ostad Moein,3310000000.0,110333.33
 84,2,True,True,True,Pardis,550000000.0,18333.33
 80,2,True,True,False,Northern Janatabad,3250000000.0,108333.33
 863,2,True,True,True,Gheitarieh,7830000000.0,261000.0
@@ -707,6 +708,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 117,2,True,True,True,,6500000000.0,216666.67
 118,2,True,True,True,Shahran,3900000000.0,130000.0
 151,3,True,True,True,Shahrake Qods,1510000000.0,50333.33
+" 16,160,000,000 ",3,True,True,True,Pasdaran,16160000000.0,538666.67
 86,2,True,True,True,Pardis,500000000.0,16666.67
 85,2,True,True,True,Pardis,600000000.0,20000.0
 86,2,True,True,True,Pardis,750000000.0,25000.0
@@ -804,7 +806,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 150,3,True,True,True,Beryanak,2800000000.0,93333.33
 49,1,True,True,False,Islamshahr,460000000.0,15333.33
 216,4,True,True,False,Andisheh,5700000000.0,190000.0
-1000,2,True,True,False,Damavand,7000000000.0,233333.33
+" 1,000 ",2,True,True,False,Damavand,7000000000.0,233333.33
 77,2,False,False,False,Parand,440000000.0,14666.67
 63,1,True,True,True,Shahr-e-Ziba,2080000000.0,69333.33
 125,3,True,True,False,Parand,1300000000.0,43333.33
@@ -1601,6 +1603,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 101,2,True,True,True,Gheitarieh,8500000000.0,283333.33
 99,1,True,True,True,Gheitarieh,8400000000.0,280000.0
 97,2,True,True,True,Shahrake Gharb,7500000000.0,250000.0
+" 8,400,000,000 ",2,True,True,True,Gheitarieh,8700000000.0,290000.0
 126,2,True,True,True,Gheitarieh,11500000000.0,383333.33
 105,2,True,True,True,Pardis,525000000.0,17500.0
 101,2,True,True,True,Tarasht,3345000000.0,111500.0
@@ -2167,7 +2170,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 74,2,True,True,True,Eskandari,2960000000.0,98666.67
 68,2,True,True,True,East Ferdows Boulevard,2500000000.0,83333.33
 240,4,True,True,True,Persian Gulf Martyrs Lake,4800000000.0,160000.0
-3600,2,False,False,False,Shahryar,9720000000.0,324000.0
+" 3,600 ",2,False,False,False,Shahryar,9720000000.0,324000.0
 44,1,False,True,False,Qasr-od-Dasht,770000000.0,25666.67
 82,2,True,True,True,Shahran,2850000000.0,95000.0
 44,1,True,True,False,Salsabil,1050000000.0,35000.0
@@ -2798,6 +2801,7 @@ Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
 108,2,True,True,False,Parand,1150000000.0,38333.33
 68,2,True,True,True,Ostad Moein,1970000000.0,65666.67
 130,2,True,True,True,Khademabad Garden,1755000000.0,58500.0
+" 2,550,000,000 ",2,True,True,True,Central Janatabad,2550000000.0,85000.0
 40,1,False,True,False,Tenant,1050000000.0,35000.0
 63,1,False,False,True,Tenant,1350000000.0,45000.0
 140,3,True,True,True,Mirdamad,8000000000.0,266666.67
