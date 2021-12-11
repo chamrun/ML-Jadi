@@ -1,4 +1,4 @@
-# ML-JadiCourse
+# Machine Learning with Python Course
 My journey through "Machine Learning with Python Course"
 
 
